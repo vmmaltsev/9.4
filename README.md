@@ -22,7 +22,7 @@
 
 Приведите скриншот systemctl status node-exporter, где будет написано node-exporter.service - Node Exporter Netology Lesson 9.4 - [Ваши ФИО]`
 
-1) https://github.com/vmmaltsev/screnshot/blob/main/Screenshot_13.png)
+1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/Screenshot_13.png)
 
 
 ---
